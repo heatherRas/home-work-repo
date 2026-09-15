@@ -5,3 +5,11 @@ body {
 h1 {
     color: #A379C9;
 }
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    background-color: #E1D4ED;
+}

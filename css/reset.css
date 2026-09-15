@@ -18,7 +18,6 @@ body {
 /* Make images easier to work with */
 img,
 picture {
-  max-width: 100%;
   height: auto;
   display: block;
 }
